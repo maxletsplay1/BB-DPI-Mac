@@ -1,6 +1,6 @@
 # Инструкция
 ### Первоначальная настройка
-[Скачайте архив](https://github.com/maxletsplay1/BB-DPI-Mac/archive/refs/heads/main.zip)
+[Скачайте архив](https://github.com/maxletsplay1/BB-DPI-Mac/archive/refs/heads/main.zip) и разархивируйте 
 
 Выберите нужное вам приложение в соответствии с процессором вашего устройства([как узнать какой процессор?](https://support.apple.com/ru-ru/116943)):
 - Для процессоров Intel - `MacIntel.app`
